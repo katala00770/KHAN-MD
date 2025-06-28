@@ -1,22 +1,22 @@
 {
-  "name": "KHAN-MD",
+  "name": "ANONYMOUS",
   "description": "Javascript WhatsApp bot made by Jᴀᴡᴀᴅ TᴇᴄʜX",
   "logo": "https://files.catbox.moe/neni8p.jpg",
-  "keywords": ["KHAN-XMD"],
+  "keywords": ["KHAN-"],
   "success_url": "/",
 
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "IK~hSNVwTSa#2yG163WBbciiIikyRpCAdR5yb10lDhWlrDjNC9OwMPA",
       "required": true,
-      "value": ""
+      "value": "IK~hSNVwTSa#2yG163WBbciiIikyRpCAdR5yb10lDhWlrDjNC9OwMPA"
     },  
     
     "STICKER_NAME": {
-      "description": "type your sticker pack name.",
+      "description": ANYMOUS ",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "03134158840"
     }, 
       
     "PREFIX": {
@@ -41,19 +41,19 @@
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": false,
-      "value": "false"  
+      "value": "true"  
     },    
    
     "AUTO_REPLY": {
       "description": "Make it true if you want automatic reply.",
       "required": false,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_STICKER": {
       "description": "Make it true if you want automatic sticker.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     }, 
 
 
@@ -78,7 +78,7 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY KHAN-MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY ANONYMOUS 🖤*"
    
      }, 
     
@@ -91,7 +91,7 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "92310344XXXX"
+      "value": "923134158840"
 
     }, 
 
@@ -125,7 +125,7 @@
    "MENTION_REPLY": {
       "description": "make it true if want mention reply if someone menetion you.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     
     "MENU_IMAGE_URL": {
@@ -142,14 +142,14 @@
 
       "DELETE_LINKS": {
       "description": "remove links from group automatically without removing member",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     
     "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
 
     "AUTO_TYPING": {
